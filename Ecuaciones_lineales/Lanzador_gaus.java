@@ -1,3 +1,6 @@
+// Marco Antonio Pavia Flores
+// Lanzador_gaus.java
+
 package Ecuaciones_lineales;
 public class Lanzador_gaus {
     public static void main(String[] args) {

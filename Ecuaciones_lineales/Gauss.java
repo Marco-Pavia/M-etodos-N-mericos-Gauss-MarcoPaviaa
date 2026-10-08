@@ -1,4 +1,7 @@
-package Ecuaciones_lineales;
+// Marco Antonio Pavia Flores
+// Gauss.java
+
+        package Ecuaciones_lineales;
 
 public class Gauss {
 

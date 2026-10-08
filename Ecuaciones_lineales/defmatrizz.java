@@ -1,3 +1,6 @@
+// Marco Antonio Pavia Flores
+// defmatrizz.java
+
 package Ecuaciones_lineales;
 
 public class defmatrizz {
